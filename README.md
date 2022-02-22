@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gebz
-- 👀 I’m interested in Microwave Engineering, Computer simulation, Scientific computing, and Software development.
-- 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me Gebz#7155 on discord
+- 👀 I’m interested in Microwave Engineering, Scientific computing, software engineering, and cybersecurity
+- 🌱 I’m currently learning python, bash, javascript, and kali linux
+- 📫 How to reach me b0ss#7155 on discord
 
 
 <!---
