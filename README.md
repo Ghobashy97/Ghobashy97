@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gebz
 - 👀 I’m interested in Microwave Engineering, Scientific computing, software engineering, and cybersecurity
-- 🌱 I’m currently learning python, bash, javascript, and kali linux
+- 🌱 I’m currently learning python, bash, java, and kali linux
 - 📫 How to reach me b0ss#7155 on discord
 
 
